@@ -18,3 +18,5 @@
 <img align='left' alt='bootstrap' src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align='left' alt='flask' src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img align="left" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadiga&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
